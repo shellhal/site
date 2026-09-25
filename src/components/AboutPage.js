@@ -241,9 +241,9 @@ class AboutPage extends Component {
       <div className="fixed-bg bg-3">
         <h3 className="about-section-title">Teaching Assistant Work</h3>
         <div className="principles-section">
-          <li className="ta-li"><span className="bullet-start">TA for the Introduction to Computer Science courses:</span><span className="bullet-end"> CS 160 (3 terms), CS 161 (6 terms), CS 162 (2 terms)</span></li>
-          <li className="ta-li"><span className="bullet-start">My job consisted of:</span> <span className="bullet-end">Office hours, in-person grading, teaching recitation sessions, leading study sessions</span></li>
-          <li className="ta-li"><span className="bullet-start">Research Work:</span> <span className="bullet-end">Partook in the teaching and research on an experimental way of teaching foundational computer science topics to first year CS students (see "Story Programming" paper above)</span></li>
+          <div className="ta-li"><span className="bullet-start">TA for the Introduction to Computer Science courses:</span><span className="bullet-end"> CS 160 (3 terms), CS 161 (6 terms), CS 162 (2 terms)</span></div>
+          <div className="ta-li"><span className="bullet-start">My job consisted of:</span> <span className="bullet-end">Office hours, in-person grading, teaching recitation sessions, leading study sessions</span></div>
+          <div className="ta-li"><span className="bullet-start">Research Work:</span> <span className="bullet-end">Partook in the teaching and research on an experimental way of teaching foundational computer science topics to first year CS students (see "Story Programming" paper above)</span></div>
         </div>
       </div>
 

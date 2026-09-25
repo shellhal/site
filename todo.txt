@@ -1,0 +1,6 @@
+- Download Resume PDF Link
+- Resume links to Penrose, Marinus, etc.
+- Fix Main page to combine with about
+- More Photos
+- Add Publications and image to go alongside
+- 

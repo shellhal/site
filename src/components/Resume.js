@@ -32,7 +32,7 @@ export default class Resume extends Component {
 
           <h4>Technical Skills</h4>
           <ul>
-            <li>Javascript, JQuery, Django, Python, React, SQL, Java, Grunt, Git, ElasticSearch, PostGres, SQLAlchemy, Python, Airflow, Bash, Docker, Headless Browsers, Confluence, Web Scrapers, AWS, Jira, HTML, CSS, Bootstrap
+            <li>Javascript, React, Django, Python, JQuery, SQL, Java, Grunt, Git, ElasticSearch, PostGres, SQLAlchemy, Python, Airflow, Bash, Docker, Headless Browsers, Confluence, Web Scrapers, AWS, C++, HTML, CSS, Bootstrap, Jira
 </li>
           </ul>
           <h4>Experience</h4>
